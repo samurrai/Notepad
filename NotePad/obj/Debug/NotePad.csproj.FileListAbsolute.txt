@@ -1,0 +1,15 @@
+c:\users\шадикьянр\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+c:\users\шадикьянр\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+c:\users\шадикьянр\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\MainWindow.g.cs
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\App.g.cs
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.cache
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad_MarkupCompile.lref
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\MainWindow.baml
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.g.resources
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+c:\users\шадикьянр\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
